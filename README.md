@@ -1,4 +1,4 @@
-# Cardiovascular Disease Prediction using Framingham Dataset
+# HeartGuardian (Cardiovascular Disease Prediction using Framingham Dataset)
 
 ## Project Description
 🩺 This project focuses on predicting cardiovascular diseases using traditional machine learning models and incorporating concepts from survival analysis. The Framingham dataset serves as the foundation for our predictive models.
